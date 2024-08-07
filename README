@@ -1,4 +1,3 @@
-## To use this program:
+## To use this program, run the following command from the lab1 directory:
 
-javac Hello.java
-java Hello messages/en-us.txt
+python hello.py
